@@ -1,7 +1,7 @@
 # Pesquisa-Atendimento-ao-Cliente---TudoWeb
 Pesquisa Atendimento ao Cliente - TudoWeb
 
-´´
+---
 qtd_excelente = 0
 qtd_ruim = 0
 
@@ -27,8 +27,9 @@ for i in range(1, 51):
     else:
         print("Opção inválida!")
 
-
 print("\n===== RESULTADO DA PESQUISA =====")
 print(f"Quantidade de respostas EXCELENTE: {qtd_excelente}")
 print(f"Quantidade de respostas RUIM: {qtd_ruim}")
-´´
+
+
+---
